@@ -1,5 +1,5 @@
 {
-    "name": "dazza76/Laravel4SecureURL",
+    "name": "dazza76/laravel4secureurl",
     "description": "Forces all traffic to be https",
     "authors": [
         {
