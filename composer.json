@@ -1,0 +1,19 @@
+{
+    "name": "dazza76/Laravel4SecureURL",
+    "description": "Forces all traffic to be https",
+    "authors": [
+        {
+            "name": "Darren Philips"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Dazza76\\Laravel4SecureURL\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
